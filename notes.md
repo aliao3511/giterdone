@@ -17,3 +17,4 @@ if you do do this, just remove the .git repository in the nested git repo
 branching
 git branch
 git checkout <branchname>
+git merge <branchname> // merges branchname into current branch
